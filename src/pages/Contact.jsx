@@ -55,7 +55,7 @@ function Contact() {
                 <p className="text-green-400 font-semibold text-sm">
                   Download my CV
                 </p>
-                <p className="text-slate-500 text-xs">PDF · Updated 2025</p>
+                <p className="text-slate-500 text-xs">PDF · Updated 2026</p>
               </div>
               <a
                 href="https://drive.google.com/file/d/1HaddGaB6SWGsP0MzbXKmz0rpGUK7h66n/view"
